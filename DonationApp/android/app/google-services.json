@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287853424480",
+    "project_id": "donationapp-c940c",
+    "storage_bucket": "donationapp-c940c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287853424480:android:3fe627098b2b7f015f7805",
+        "android_client_info": {
+          "package_name": "com.donationapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApv36Chz53RE2F3KvvqoRIC9STRYoe5F8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
